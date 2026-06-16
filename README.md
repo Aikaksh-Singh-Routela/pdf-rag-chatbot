@@ -122,7 +122,3 @@ MIT License - see LICENSE file for details.
 
 👨‍💻 Author
 Aikaksh Singh Routela
-
-GitHub: @Aikaksh-Singh-Routela
-
-LinkedIn: Aikaksh Singh Routela 
