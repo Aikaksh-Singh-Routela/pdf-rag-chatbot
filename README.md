@@ -6,7 +6,8 @@
 
 > **Ask questions about your PDF documents and get instant, accurate answers using Groq's Llama 3.3 70B.**
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Upload+PDF+and+Ask+Questions) <!-- Replace with actual screenshot -->
+<img width="1902" height="857" alt="Screenshot 2026-06-16 150804" src="https://github.com/user-attachments/assets/714d0008-4b8e-439e-aba3-bbe98353c224" />
+
 
 ## 🚀 Features
 
