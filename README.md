@@ -35,6 +35,10 @@
 - Python 3.11+
 - Groq API key ([Get free key](https://console.groq.com))
 
+LinkedIn :- Aikaksh Singh Routela 
+GitHub :-  Aikaksh-Singh-Routela
+
+
 ### Setup
 ```bash
 # Clone the repository
