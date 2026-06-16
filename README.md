@@ -18,6 +18,10 @@
 - 💬 **Chat Interface** - Natural conversation with chat history
 - 🔒 **Secure** - No data stored, API keys protected
 
+  
+- LinkedIn :- Aikaksh Singh Routela 
+- GitHub :-  Aikaksh-Singh-Routela
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
@@ -34,10 +38,6 @@
 ### Prerequisites
 - Python 3.11+
 - Groq API key ([Get free key](https://console.groq.com))
-
-LinkedIn :- Aikaksh Singh Routela 
-GitHub :-  Aikaksh-Singh-Routela
-
 
 ### Setup
 ```bash
