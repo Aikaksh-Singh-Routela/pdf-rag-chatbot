@@ -8,6 +8,10 @@
 
 <img width="1902" height="857" alt="Screenshot 2026-06-16 150804" src="https://github.com/user-attachments/assets/714d0008-4b8e-439e-aba3-bbe98353c224" />
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/Aikaksh-Singh-Routela/pdf-rag-chatbot)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aikaksh-singh-routela/)
+
 
 ## 🚀 Features
 
