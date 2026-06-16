@@ -19,7 +19,7 @@
 - 🔒 **Secure** - No data stored, API keys protected
 
   
-- LinkedIn :- Aikaksh Singh Routela 
+- LinkedIn :- Aikaksh-Singh-Routela
 - GitHub :-  Aikaksh-Singh-Routela
 
 ## 🛠️ Tech Stack
