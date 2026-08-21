@@ -143,7 +143,7 @@ if prompt := st.chat_input("Ask a question about your documents..."):
                 try:
                     # Initialize Groq LLM with WORKING model
                     llm = ChatGroq(
-                        model="llama-3.3-70b-versatile",  # UPDATED - replaced deprecated mixtral
+                        model="openai/gpt-oss-20b",  # UPDATED - replaced deprecated mixtral
                         temperature=0.3,
                         groq_api_key=groq_api_key or os.environ.get("GROQ_API_KEY")
                     )
